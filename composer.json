@@ -1,0 +1,14 @@
+{
+    "name": "neooblaster/makefordocker",
+    "description": "An easy way to produce simple commands to exploit Docker in your projects.",
+    "type": "library",
+    "keywords": ["make", "docker", "start", "stop", "build", "container", "service" , "docker-toolbox"],
+    "licence": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nicolas DUPRE",
+            "email": "neo-blaster@hotmail.fr",
+            "role": "Developer"
+        }
+    ]
+}
